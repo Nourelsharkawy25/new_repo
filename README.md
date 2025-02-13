@@ -1,9 +1,11 @@
 # My New Repo
 1.create directory and init repo
+    
     ```
     mkdir my-new-repo && cd my-new-repo
     git init
     ```
+    
 2. create read me file and add to staging and repo
   ```
   echo "# My New Repo" > README.md  or touch README.md
